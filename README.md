@@ -6,3 +6,5 @@ All my desmos sims and the progress i've made on them will be kept here. Even if
 [[WIP] Falcon Heavy Rocket Sim](https://www.desmos.com/calculator/senikwnahk)
 
 [Point attraction](https://www.desmos.com/calculator/q0vcgdh2zr)
+
+[Flappy Bird](https://www.desmos.com/calculator/unudwzeoa8)
