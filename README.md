@@ -7,4 +7,4 @@ All my desmos sims and the progress i've made on them will be kept here. Even if
 
 [Point attraction](https://www.desmos.com/calculator/q0vcgdh2zr)
 
-[Flappy Bird](https://www.desmos.com/calculator/unudwzeoa8)
+[Flappy Bird](https://www.desmos.com/calculator/unudwzeoa8) - [Project Page](https://github.com/users/Aden12nd/projects/5/views/1?pane=info)
